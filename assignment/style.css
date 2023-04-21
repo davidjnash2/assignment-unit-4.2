@@ -1,0 +1,43 @@
+body {
+    background-attachment: fixed;
+    background-color: seagreen;
+}
+
+header {
+    background-color: turquoise;
+    color: midnightblue;
+    text-align: center;
+}
+.p1 {
+    text-decoration: line-through;
+}
+
+.container {
+    margin-left: auto;
+}
+
+h2 {
+    background-color: rebeccapurple;
+    text-align: center;
+    color: lime;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    background-color: chartreuse;
+    text-align: center;
+    color: orchid;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
